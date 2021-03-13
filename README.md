@@ -1,0 +1,3 @@
+- 👋 Hello
+- 👀 I’m interested in Biochemistry and Bioinformatics.
+- 🌱 I’m currently learning Python 3.0 and soon C++
