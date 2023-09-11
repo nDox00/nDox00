@@ -1,4 +1,2 @@
 - 👋 Hello,
-
-- 👀 I’m interested in Biochemistry & Bioinformatics.
-- 🌱 I’m currently learning Python 3.0, SQL & C++, primarily Python 
+- I have deep passion for unraveling the mysteries of life through the convergence of biology, computer science, and statistics. Equipped with strong analytical skills and extensive knowledge in genomics, proteomics, and computational biology, I strive to apply cutting-edge computational techniques to extract valuable insights from complex biological data. My expertise lies in developing and implementing algorithms and software tools to interpret massive datasets, enabling the discovery of meaningful patterns and uncovering novel biological discoveries. In this ever-evolving field, I am constantly driven to push the boundaries of scientific understanding and contribute to advancements in healthcare and biotechnology.
